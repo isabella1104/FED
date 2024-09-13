@@ -16,10 +16,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Isabella Brookman (vervangen door jouw naam)
+  Isabella Brookman 
 
   #### Je startniveau:
-  Blauw (kies uit zwart, rood óf blauw)
+  Blauw 
 
   #### Je focus:
   Surface plane (kies uit responsive óf surface plane)
@@ -36,7 +36,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+ https://www.asnbank.nl/home.html
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
